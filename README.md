@@ -71,4 +71,4 @@ This is a live-response artifact collector, not a bit-for-bit disk imaging tool.
 
 ## Historical approach
 
-See [CHANGELOG.md](CHANGELOG.md) for the previous collector approach and the changes made in the current version.
+See [CHANGELOG.md](https://github.com/F-Farho/LFC/blob/main/ChangeLog.md)  for the previous collector approach and the changes made in the current version.
